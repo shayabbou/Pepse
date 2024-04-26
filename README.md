@@ -41,8 +41,8 @@ No winning or losing here—just enjoy the peaceful exploration of nature's beau
 To play Pepse, follow these steps:
 1. Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your GitHub account.
 2. Clone this repository to your local machine using `git clone https://github.com/shayabbou/Pepse.git`.
-3. Navigate to the repository directory by running `cd Pepse`
-4. Open "src\pepse\PepseGameManager.java" file.
+3. Navigate to the repository directory, open Pepse directory.
+4. Open "Pepse\src\pepse\PepseGameManager.java" file.
 5. Start playing and enjoy!
 
 
